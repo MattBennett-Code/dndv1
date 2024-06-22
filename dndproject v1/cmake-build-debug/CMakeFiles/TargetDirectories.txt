@@ -1,0 +1,3 @@
+/Users/itssbennett/Desktop/programming/dnd/dndproject v1/cmake-build-debug/CMakeFiles/dndproject_v1.dir
+/Users/itssbennett/Desktop/programming/dnd/dndproject v1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/itssbennett/Desktop/programming/dnd/dndproject v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
